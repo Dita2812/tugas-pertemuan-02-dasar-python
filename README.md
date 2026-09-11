@@ -15,3 +15,6 @@ Tahun Lahir : 2006
 
 ## Tugas
 - kalkulator_koordinat.py
+
+## Kuis
+- kuis1_jawaban.docx
